@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="sriiindu service catalog">73bfc1b8db463300a7aef53a29961933</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 14:38:43</sys_created_on>
+        <sys_id>ec3011b8db463300a7aef53a299619a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>college service catalog.catalog_college_service_catalog</sys_name>
+        <sys_package display_value="sriindu" source="x_366625_sriindu">16a63a54db023300a7aef53a299619b8</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_college_service_catalog">603011b8db463300a7aef53a299619a7</sys_portal_page>
+        <sys_scope display_value="sriindu">16a63a54db023300a7aef53a299619b8</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_ec3011b8db463300a7aef53a299619a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 14:38:43</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

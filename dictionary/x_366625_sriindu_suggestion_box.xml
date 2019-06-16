@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="suggestion box " max_length="40" name="x_366625_sriindu_suggestion_box" sizeclass="2" type="collection">
+        <element default="0" label="rating2" max_length="5" name="rating2" type="integer"/>
+        <element label="reason" max_length="40" name="reason" type="string"/>
+        <element default="0" label="service rating" max_length="5" name="service_rating" type="integer"/>
+        <element label="suggestion" max_length="40" name="suggestion" type="string"/>
+    </element>
+</database>
